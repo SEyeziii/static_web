@@ -29,3 +29,8 @@ body {
     background-position: center;
     display: flex;
 }
+
+.text{
+    font: italic bold 40px;
+    color: purple
+}
