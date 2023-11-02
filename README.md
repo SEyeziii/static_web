@@ -1,4 +1,4 @@
 # static_web
 Web-страничка с контактной информацией и ссылками на личные страницы.
 
-http://kristied.ru/
+https://kristied.ru/
